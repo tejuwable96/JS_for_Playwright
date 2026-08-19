@@ -123,6 +123,8 @@ console.log(q7)
 let x2=[44,55,7,88,9]
 console.log(x2.indexOf(9))  //4
 
+console.log(x2.indexOf(44))
+
 //at()-display index value
 console.log(x2.at(2))
 
