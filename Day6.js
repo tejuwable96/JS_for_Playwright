@@ -1,3 +1,5 @@
+//String method
+
 let n="Tejaswi Wable"
 console.log(n)
 console.log(n.length)

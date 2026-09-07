@@ -100,6 +100,7 @@ let nums=[23,45,67,89,100,23,78,56]
 // }
 
 
+
 let sum=nums.reduce(function(acc,el,idx,arr){
         return acc+el
 },0)
